@@ -1,0 +1,5 @@
+com\ordermanager\restservice\orders\NewOrderResponse.class
+com\ordermanager\restservice\orders\NewOrderMapping.class
+com\ordermanager\services\OrderServices.class
+com\ordermanager\repository\entities\OrderEntity.class
+com\ordermanager\repository\repositories\OrderEntityRepository.class
